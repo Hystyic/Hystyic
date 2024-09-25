@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Neil
-I'm a student pursuing a Computer Science degree at PES University. Here's my [resume](https://github.com/Hystyic/Hystyic/blob/main/Neil_Fernanades.pdf)
+I'm a student pursuing a Computer Science degree at PES University. Here's my [resume](https://github.com/Hystyic/Hystyic/blob/a6117df5d50e9c0f19c3a99226bdc6270b4b4347/Neil_Fernandes.pdf)
 
 💻 CODE: C, C++, Python, SQL, HTML, CSS, JavaScript, React.
 
