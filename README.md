@@ -1,13 +1,13 @@
 ### Hi there 👋, my name is Neil
-I'm a student pursuing a Computer Science degree at PES University. Here's my [resume](https://github.com/Hystyic/Hystyic/blob/a6117df5d50e9c0f19c3a99226bdc6270b4b4347/Neil_Fernandes.pdf)
+I am a software engineer with a penchant in full-stack development, cloud technologies, UI/UX design and technical support. Here's my [resume](https://github.com/Hystyic/Hystyic/blob/a6117df5d50e9c0f19c3a99226bdc6270b4b4347/Neil_Fernandes.pdf)
 
-💻 CODE: C, C++, Python, SQL, HTML, CSS, JavaScript, React.
+💻 CODE: Python, SQL (MySQL), MongoDB, Firebase, Flutter, React, React Native, Node.js, JavaScript, HTML, CSS.
 
 🌸 DESIGN: Sketch, Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator.
 
-🌐 LANGUAGES: English, Kannada, Hindi, Konkani.
+🛠️ TOOLS/SERVICES: Microsoft Office, Git, Linux/Windows/macOS, AWS, GCP, Docker, Kubernetes, VS Code, PyCharm, Jenkins, Tableau, Power BI. MS Office
 
-🛠️ TOOLS/SERVICES: Microsoft Office, Git, Linux/UNIX, AWS, Azure, Docker, Kubernetes, Gradle, Firebase, Flutter, MongoDB
+🌐 LANGUAGES: English, Kannada, Hindi, Konkani.
 
 🔭 I’m currently working on Equate (A Gen AI calculator)  
 
