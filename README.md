@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Neil
+### Hi there 👋,
 I am a software engineer with a penchant in full-stack development, cloud technologies, UI/UX design and technical support. Here's my [resume](https://github.com/Hystyic/Hystyic/blob/a6117df5d50e9c0f19c3a99226bdc6270b4b4347/Neil_Fernandes.pdf)
 
 💻 CODE: Python, SQL (MySQL), MongoDB, Firebase, Flutter, React, React Native, Node.js, JavaScript, HTML, CSS.
