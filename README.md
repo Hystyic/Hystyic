@@ -7,7 +7,6 @@ I am a software engineer with a penchant in full-stack development, cloud techno
 Harness, NewRelic, Grafana Loki.
 🌐 LANGUAGES: English, Kannada, Hindi, Konkani.
 
-🔭 I’m currently working on Equat[Uploading Neil Fernandes.pdf…]()
-e (A Gen AI calculator)  
+🔭 I’m currently working on Equate (A Gen AI calculator)  
 
 📫 How to reach me: neilpinef@gmail.com 
