@@ -1,12 +1,31 @@
-### Hi there 👋,
-I am a software engineer with a penchant in full-stack development, cloud technologies, UI/UX design and technical support. Here's my [resume](https://github.com/Hystyic/Hystyic/blob/a6117df5d50e9c0f19c3a99226bdc6270b4b4347/Neil_Fernandes.pdf)
+### Hi there 👋  — I’m **Neil Fernandes**
 
-💻 CODE: Python, MongoDB, JavaScript, Typescript, HTML/CSS.
-🌸 DESIGN: Sketch, Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator.
-🛠️ TOOLS/SERVICES: React, React Native, Node.js, Flutter, Playwright, Git, BitBucket, Docker, Kubernetes GCP, Azure, AWS, Jenkins, Github Actions, JIRA, Terraform, Helm,
-Harness, NewRelic, Grafana Loki.
-🌐 LANGUAGES: English, Kannada, Hindi, Konkani.
+System & Cloud Platform Engineer
 
-🔭 I’m currently working on Equate (A Gen AI calculator)  
+---
 
-📫 How to reach me: neilpinef@gmail.com 
+#### 💻 Code
+- **Python** • **JavaScript / TypeScript** • **HTML & CSS**
+
+#### ⚙️ Frameworks & Runtime
+- **React / MERN** • **Node.js (Express)**  
+- **Flutter** • **Playwright**
+
+#### ☁️ Cloud & Platform
+- **AWS** · 
+- **Docker** & **Kubernetes** 
+- **Terraform**
+- CI/CD with **GitHub Actions**, **Jenkins**
+
+#### 🔍 Observability & Ops
+- **New Relic** • **Grafana Loki** • **CloudWatch**  
+- **n8n** for workflow automation
+
+#### 🎨 Design
+- **Figma**, Sketch, Adobe XD / Photoshop / Illustrator
+
+
+---
+
+### 📫 Reach Me
+`neilpinef@gmail.com` · [LinkedIn](https://linkedin.com/in/neilpinef)
