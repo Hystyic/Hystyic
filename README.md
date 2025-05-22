@@ -12,7 +12,7 @@ System & Cloud Platform Engineer
 - **Playwright**
 
 #### ☁️ Cloud & Platform
-- **AWS** · 
+- **AWS Certified Solutions Architect Associate**
 - **Docker** & **Kubernetes** 
 - **Terraform**
 - CI/CD with **GitHub Actions**, **Jenkins**
