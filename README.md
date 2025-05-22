@@ -8,8 +8,8 @@ System & Cloud Platform Engineer
 - **Python** • **JavaScript / TypeScript** • **HTML & CSS**
 
 #### ⚙️ Frameworks & Runtime
-- **React / MERN** • **Node.js (Express)**  
-- **Flutter** • **Playwright**
+- **React** • **Node.js**  
+- **Playwright**
 
 #### ☁️ Cloud & Platform
 - **AWS** · 
